@@ -15,6 +15,6 @@ Completed a practical home-network configuration lab using Cisco Packet Tracer, 
 Strengthened my understanding of core networking fundamentals like DHCP, default gateways, IP addressing, and wireless security through hands-on configuration and verification.
 
 ## Screeshots
-![Configured connection]
-![Password Setup]
-![DHCP configuration]
+![Configured connection](./wiredconnection.png)
+![Password Setup](./adminsetup.png)
+![DHCP configuration](./DHCPconfig.png)
