@@ -11,9 +11,10 @@ I am a recent MSc Cybersecurity graduate with a strong interest in Security Oper
 -Other: Risk assessment, Threat analysis
 
 ## **Projects**
--Log Analysis 
--Risk Assessment
--Networking lab
+-[Log Analysis](./Log Analysis)
+-[Risk Assessment](./risk-assessment)
+-[Networking lab](./Networking-Lab)
+-[Active Directory lab](./Active-Directory-Lab)
 
 **Contact**
 Linkedin: [Linkedin](https://www.linkedin.com/in/chungwa-pomu-b46429253)
