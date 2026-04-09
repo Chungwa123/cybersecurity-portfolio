@@ -17,4 +17,4 @@ I am a recent MSc Cybersecurity graduate with a strong interest in Security Oper
 
 **Contact**
 Linkedin: [Linkedin](https://www.linkedin.com/in/chungwa-pomu-b46429253)
-Email: [contacts](mailto:limbuchungwa@gmail.com)
+Email: limbuchungwa@gmail.com
