@@ -17,4 +17,4 @@ Strengthened my understanding of core networking fundamentals like DHCP, default
 ## Screeshots
 ![Configured connection](./wiredconnection.png)
 ![Password Setup](./adminsetup.png)
-![DHCP configuration](./DHCPconfig.png)
+![DHCP configuration](./dhcpconfig.png)
