@@ -41,9 +41,10 @@ Simulated common helpdesk tasks like password reset and account lock.
 
 **Screenshots**
 Screenshots included:
-AD and group user configuration
-GPO settings
-Access allowed and access denial scenarios.
+![password policies](./passwordpolicies.png)
+![Access allowed and access denial scenarios](./accessdenied.png)
+![Account Lockout](./accountlockout.png)
+![GPOs](./gpos.png)
 
 
 **Troubleshoot**
