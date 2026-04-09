@@ -1,9 +1,9 @@
-**RISK ASSESSMENT IN FINACIAL SECTOR AND CYBERSECURITY STRATEGY FOR LARGE SCALE E-COMMERCE PLATFORM**
+## RISK ASSESSMENT IN FINACIAL SECTOR AND CYBERSECURITY STRATEGY FOR LARGE SCALE E-COMMERCE PLATFORM
 
-**Overview**
+## Overview
 This project is done on a fictional ecommerce organization made to present financial risk assessment and cybersecurity strategy for a large-scale e-commerce platform. It focuses on identifying **critical vulnerabilities**, analyzing their **financial impact**, and designing **cost-effective mitigation strategies** aligned with industry frameworks.   
 
-**Objective**
+## **Objective**
 -Analyse system architecture and workflow
 -Identify critical assets and vulnerabilities
 -Evaluate financial risks from cyber threats
