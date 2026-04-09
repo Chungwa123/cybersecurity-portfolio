@@ -11,7 +11,7 @@ This project is done on a fictional ecommerce organization made to present finan
 -Propose mitigation based on ROI analysis
 
 ## **Critical Risks Identified**
-
+![Risk Matrix](./Screenshot(76).png)
 
 ## **Risk Prioritisation**
 -Payment Attacks **Highest priority**
@@ -20,7 +20,8 @@ This project is done on a fictional ecommerce organization made to present finan
 
 ## **Financial Mitigation Strategy**
 **Budget : $500000**
-
+![Budget allocation](./Screenshot(77).png)
+![Budget breakdown](./Screenshot(78).png)
 
 ## **Key Results**
 -Total Loss Prevented: 61M/year
