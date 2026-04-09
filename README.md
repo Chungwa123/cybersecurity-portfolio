@@ -16,5 +16,5 @@ I am a recent MSc Cybersecurity graduate with a strong interest in Security Oper
 -Risk Assessment
 
 **Contact**
-Linkedin: [Linkedin](www.linkedin.com/in/chungwa-pomu-b46429253)
-Email: [contacts](limbuchungwa@gmail.com)
+Linkedin: [Linkedin](https://www.linkedin.com/in/chungwa-pomu-b46429253)
+Email: [contacts](mailto:limbuchungwa@gmail.com)
