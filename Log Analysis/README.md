@@ -19,3 +19,8 @@ Wazuh logged all the failed login attempts along and detected the exact chain of
 
 **Key learnings**
 This gave me a bigger picture on how we can see live attacks through SIEM tools like Wazuh and how logs work. And how failed logins can be analysed to understand whether it is a genuine mistake or a attack.
+
+**Screenshots**
+![Log Analysis](Screenshot(72).png)
+![Dashboard](Screenshot(71).png)
+![Attacks](Screenshot(74).png)
